@@ -27,8 +27,12 @@ dataset. Each such notebook produces a single plot in the paper.
 
 `make db` will bootstrap a new database using the `lastmile.sql` schema.
 `db-insert-*` notebooks can be used to fill in the dataset. Each such
-notebook fills in entries in one table. Once all the tables are filled
-in `plot-*` can be used to reproduce results on a different dataset.
+notebook fills in entries in one table. This includes mechanics to
+provision measurements on RIPE Atlas, fetch measurement results and dump
+them in the database tables while also augmenting the metadata with
+third-party datasets such as peeringDB and RIPE stat APIs. Once all the
+tables are filled in `plot-*` can be used to reproduce results on a
+different dataset.
 
 
 ### Contact
