@@ -46,7 +46,7 @@ different dataset.
 Please feel welcome to contact the authors for further details.
 
 - Vaibhav Bajpai <bajpaiv@in.tum.de>  
-- Steffie Jacob Eravuchira <s.eravuchira@jacobs-university.de>  
+- Steffie Jacob Eravuchira <steffie@samknows.com>  
 - Jürgen Schönwälder <j.schoenwaelder@jacobs-university.de>  
 
 
