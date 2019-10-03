@@ -6,13 +6,7 @@ October 2017
 
 ### Dataset
 
-The raw dataset and mirrors are available at:
-
-* Jacobs University Bremen, [here
-  &rarr;](http://cnds.eecs.jacobs-university.de/users/vbajpai/lm-ccr-2017/)  
-
-* SamKnows, [here
-  &rarr;](https://files.samknows.com/~vbajpai/lm-ccr-2017/)  
+The raw dataset is available [here &rarr;](http://doi.org/10.14459/2017mp1506300)  
 
 It includes the SQL schema `lastmile.sql` and the dataset in sqlite3
 format `lastmile.db`
