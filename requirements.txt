@@ -1,6 +1,6 @@
 backports-abc==0.4
 basemap==1.0.7
-certifi==2015.11.20
+certifi==2022.12.7
 cycler==0.9.0
 decorator==4.0.4
 gnureadline==6.3.3
