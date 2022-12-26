@@ -30,4 +30,4 @@ six==1.10.0
 tornado==4.3
 traitlets==4.0.0
 tzwhere==2.2
-wheel==0.26.0
+wheel==0.38.1
